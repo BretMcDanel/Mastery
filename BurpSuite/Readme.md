@@ -32,7 +32,7 @@ Whether you’re breaking into offensive security or refining professional workf
 # Requirements
 ## Required Software (installation walkthrough is in video 4)
 - VirtualBox (Free) Used to run the isolated lab environment for safe, replicable demonstrations.
-- SamuraiWTF ISO (Free penetration testing distro) Preloaded with vulnerable apps and testing frameworks, Burp Suite Community Edition (what this guide uses), and a web browser.
+- SamuraiWTF ISO (Free penetration testing distro) Preloaded with vulnerable apps and testing frameworks, Burp Suite Community Edition (what this series uses), and a web browser.
 
 ## Recommended Equipment
 - Laptop/Desktop with 8GB+ RAM (more is better)
