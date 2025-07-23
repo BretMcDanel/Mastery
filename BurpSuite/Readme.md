@@ -26,7 +26,6 @@ The Burp Suite Mastery Series is built for cybersecurity professionals and aspir
 - **Bug Bounty Hunters**: Adds depth to endpoint discovery and client-side vulnerability mapping.
 - **Security Analysts**: Builds repeatable testing methods aligned to OWASP and MITRE.
 - **Cybersecurity Students**: Provides lab-based, hands-on practice from beginner to advanced levels.
-- **Educators & Trainers**: Offers a structured curriculum with modular learning assets.
 
 Whether you’re breaking into offensive security or refining professional workflows, this series delivers clarity, context, and lab-ready testing strategies. Every section builds progressively — no fluff, no clickbait, just real skills you can apply today.
 
