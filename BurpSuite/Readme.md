@@ -1,3 +1,4 @@
+![BurpSuite Mastery Series Banner](BurpSuite%20Mastery%20Series%20Banner.png)
 # Burp Suite Mastery Series
 
 The Burp Suite Mastery Series is a **FREE** comprehensive, 73-episode training program meticulously crafted to teach cybersecurity professionals how to perform manual web application testing with surgical precision using Burp Suite. Designed for penetration testers, bug bounty hunters, AppSec engineers, and defensive architects, this series spans over 8 hours of structured video instruction, delivering everything from tool basics to advanced exploitation techniques, client-side logic abuse, API testing, identity manipulation, and strategic enterprise workflows. 
@@ -28,6 +29,17 @@ The Burp Suite Mastery Series is built for cybersecurity professionals and aspir
 - **Educators & Trainers**: Offers a structured curriculum with modular learning assets.
 
 Whether you’re breaking into offensive security or refining professional workflows, this series delivers clarity, context, and lab-ready testing strategies. Every section builds progressively — no fluff, no clickbait, just real skills you can apply today.
+
+# Requirements
+## Required Software (installation walkthrough is in video 4)
+- VirtualBox (Free) Used to run the isolated lab environment for safe, replicable demonstrations.
+- SamuraiWTF ISO (Free penetration testing distro) Preloaded with vulnerable apps and testing frameworks, Burp Suite Community Edition (what this guide uses), and a web browser.
+
+## Recommended Equipment
+- Laptop/Desktop with 8GB+ RAM (more is better)
+- Stable Internet Connection Needed for downloading lab files, Burp updates, and accessing Burp Suite extensions.
+- Headphones/Speakers For audio playback during training sessions.
+- (Optional) Second Monitor Helpful for running lab tools on one screen, following along on the other.
 
 # Video List
 **Series Playlist** (tbd)
