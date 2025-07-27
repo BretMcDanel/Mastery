@@ -32,7 +32,7 @@ Whether you’re breaking into offensive security or refining professional workf
 # Requirements
 ## Required Software (installation walkthrough is in video 4)
 - VirtualBox (Free) Used to run the isolated lab environment for safe, replicable demonstrations.
-- SamuraiWTF ISO (Free penetration testing distro) Preloaded with vulnerable apps and testing frameworks, Burp Suite Community Edition (what this series uses), and a web browser.
+- Kali (Free penetration testing distro).
 
 ## Recommended Equipment
 - Laptop/Desktop with 8GB+ RAM (more is better)
@@ -49,7 +49,7 @@ Whether you’re breaking into offensive security or refining professional workf
 | 1       | Welcome to the Series        | Beginner    | 4:30    | Kick off your journey into professional manual web application testing with this essential orientation. Learn how the series is structured, what real-world vulnerabilities you'll master, and how each section builds toward expertise in Burp Suite. |
 | 2       | Burp Suite Versions Compared | Beginner    | 6:00    | Understand how Burp Suite Community and Professional editions differ across functionality, extension support, and use cases. |
 | 3       | OWASP Top 10 (2025) Overview | Beginner    | 7:00    | Learn how Burp Suite’s manual testing capabilities align with the OWASP Top 10 (2025) risks. |
-| 4       | Creating The Lab             | Beginner    | 8:30    | Set up your own attack simulation lab using SamuraiWTF and Burp Suite. Covers virtualization, proxy config, browser trust, and sample vulnerable apps. |
+| 4       | Creating The Lab             | Beginner    | 8:30    | Set up your own attack simulation lab using Kali and Burp Suite. Covers virtualization, proxy config, browser trust, and sample vulnerable apps. |
 
 ## Section 2: Core Tools				
 **Section Playlist** (tbd)
