@@ -1,13 +1,13 @@
 ![BurpSuite Mastery Series Banner](BurpSuite%20Mastery%20Series%20Banner.png)
 # Burp Suite Mastery Series
 
-The Burp Suite Mastery Series is a **FREE** comprehensive, 73-episode training program meticulously crafted to teach cybersecurity professionals how to perform manual web application testing with surgical precision using Burp Suite. Designed for penetration testers, bug bounty hunters, AppSec engineers, and defensive architects, this series spans over 8 hours of structured video instruction, delivering everything from tool basics to advanced exploitation techniques, client-side logic abuse, API testing, identity manipulation, and strategic enterprise workflows. 
+The Burp Suite Mastery Series is a **FREE** comprehensive, 72-episode training program meticulously crafted to teach cybersecurity professionals how to perform manual web application testing with surgical precision using Burp Suite. Designed for penetration testers, bug bounty hunters, AppSec engineers, and defensive architects, this series spans over 8 hours of structured video instruction, delivering everything from tool basics to advanced exploitation techniques, client-side logic abuse, API testing, identity manipulation, and strategic enterprise workflows. 
 
 Structured into nine focused sections, the series begins with foundational setup and orientation, introducing the role of Burp Suite in modern testing ecosystems. Learners progress through core tool usage, mastering Proxy, Repeater, Decoder, Intruder, and WebSocket testing, before diving into real-world exploitation strategies involving input abuse, injection payloads, and DOM-based vulnerabilities. 
 
 Moving beyond technical execution, the series provides powerful guidance on identity and session manipulation, federated authentication analysis (OAuth, JWT, SAML), and manual GraphQL and gRPC testing workflows. Each episode is aligned with OWASP Top 10 (2025) categories and emphasizes **manual testing methodology** encouraging learners to think critically about trust boundaries, user behavior, and application design flaws. 
 
-In later sections, viewers tackle race conditions, cache poisoning, blind SSRF via Burp Collaborator, and timing-based exploits using live request manipulation bridging theory with adversarial simulation. Specialized episodes offer insights into professional reporting, evidence capture, audit readiness, and TLS/SSL cryptographic analysis. 
+In later sections, viewers tackle race conditions, cache poisoning, blind SSRF, and timing-based exploits using live request manipulation bridging theory with adversarial simulation. Specialized episodes offer insights into professional reporting, evidence capture, audit readiness, and TLS/SSL cryptographic analysis. 
 
 Whether you're building a career in offensive security or fortifying your organization’s testing strategy, this series enables learners to: 
 
@@ -151,11 +151,10 @@ Whether you’re breaking into offensive security or refining professional workf
 | 68      | Section Intro: Strategic Workflows | Intermediate | 3:00    | Overview of reporting, wordlists, and advanced tooling. Learn how strategic workflows enhance manual testing precision and operational clarity. |
 | 69      | Custom Wordlist Crafting         | Intermediate | 6:30    | Build targeted wordlists for fuzzing and endpoint discovery. Includes payload tuning, encoding strategies, and automation tips. |
 | 70      | Exporting Reports & Logs from Burp Suite | Intermediate | 6:45 | Learn how to extract meaningful data from Burp Suite for documentation and analysis. Covers HTML reports, log exports, and evidence preservation. |
-| 71      | Burp Collaborator: Manual Detection | Intermediate | 7:15 | Use Burp Collaborator to detect out-of-band vulnerabilities manually. Includes DNS, HTTP, and SMTP interaction tracing. |
-| 72      | TLS/SSL Analysis                 | Intermediate | 7:30    | Analyze TLS configurations and certificate trust chains using Burp Suite. Learn to identify weak ciphers, expired certs, and handshake anomalies. |
+| 71      | TLS/SSL Analysis                 | Intermediate | 7:30    | Analyze TLS configurations and certificate trust chains using Burp Suite. Learn to identify weak ciphers, expired certs, and handshake anomalies. |
 ## Section 9: Series Closure
 **Section Playlist** (tbd)
 | Video # | Title                  | Skill Level | Runtime | YouTube Description |
 |---------|------------------------|-------------|---------|---------------------|
-| 73      | Section Intro: Series Closure | Beginner    | 3:00    | Wrap up the Burp Suite Mastery Series with a strategic overview of next steps and skill mapping. |
+| 72      | Section Intro: Series Closure | Beginner    | 3:00    | Wrap up the Burp Suite Mastery Series with a strategic overview of next steps and skill mapping. |
 
